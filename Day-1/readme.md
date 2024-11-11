@@ -7,7 +7,7 @@ The print() function prints the specified message to the screen or other standar
 *Example*:
 ```python
 # Using the print function
-print("I love Python")
+print("Hello, World!")
 
 Output: 
-I love Python
+Hello, World!
