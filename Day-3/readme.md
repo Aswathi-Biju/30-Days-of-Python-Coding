@@ -21,3 +21,6 @@ print("Addition:", addition)
 print("Subtraction:", subtraction)
 print("Multiplication:", multiplication)
 print("Division:", division)
+
+
+#After doing these basic operations also find floor division, modulus and power of num1 and num2
