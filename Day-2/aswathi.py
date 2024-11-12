@@ -1,4 +1,5 @@
 name = input("What is your name? ")
 age = input("How old are you? ")
-
+fav_color= input("What is your favourite color? ")
 print("Hello " + name + "! You are " + age + " years old.")
+print("Your favourite color is", fav_color)
