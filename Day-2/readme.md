@@ -11,3 +11,6 @@ name = input("What is your name? ")
 age = input("How old are you? ")
 
 print("Hello " + name + "! You are " + age + " years old.")
+
+# Now try to make your own:
+Try creating a simple program that asks for the user's favorite color and prints a message including the color.
