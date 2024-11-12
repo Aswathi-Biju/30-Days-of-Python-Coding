@@ -15,3 +15,7 @@ elif number == 0:
     print("The number is zero.")
 else:
     print("The number is negative.")
+
+#Now write a program that asks the user for their age and checks:
+If the age is greater than or equal to 18, print "You are an adult."
+Otherwise, print "You are a minor."
