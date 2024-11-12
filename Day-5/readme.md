@@ -19,3 +19,11 @@ elif score >= 60:
     print("Grade: D")
 else:
     print("Grade: F")
+
+
+ #Now write a program that asks the user for the current temperature and prints:
+
+"It's hot!" if the temperature is 30°C or above.
+"It's warm!" if the temperature is between 20°C and 29°C.
+"It's cool!" if the temperature is between 10°C and 19°C.
+"It's cold!" if the temperature is below 10°C.
