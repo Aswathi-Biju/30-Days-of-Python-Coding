@@ -11,3 +11,7 @@ print("Hello, World!")
 
 Output: 
 Hello, World!
+
+# Now try to make your own:
+Give the output as:
+I love Python
