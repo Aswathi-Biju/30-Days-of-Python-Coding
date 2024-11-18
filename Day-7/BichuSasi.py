@@ -1,4 +1,4 @@
-correct_password=input("Eneter your password: ")
+correct_password=input("Enter your password: ")
 while True:
     password = input("Enter your password:")
     if password == correct_password:
