@@ -118,7 +118,7 @@ print(5 not in list1)  # Output: True (5 is not in list1)
 3. Slices the list to display the middle 3 elements.
 4.Concatenates a new list [100, 200] to the original list.
 5.Check for the presence of an element[50] in the list using the in operator.
-6. Replace an element using the slice operator
+
 
 
 
