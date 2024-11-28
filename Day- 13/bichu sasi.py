@@ -1,11 +1,11 @@
-Python 3.8.10 (default, Mar 15 2022, 12:22:08) 
-[GCC 9.4.0] on linux
-Type "help", "copyright", "credits" or "license()" for more information.
->>> 
-=================== RESTART: /home/user/python/bichu_sasi.py ===================
-First Random Indiger:  21
-Second Random Indiger:  50
-Third Random Indiger:  38
-Fourth Random Indiger:  2
-Fifth Random Indiger:  27
->>> 
+import random
+random_indiger1 = random.randint(1,50)
+print("First Random Indiger: ",random_indiger1)
+random_indiger2 = random.randint(1,50)
+print("Second Random Indiger: ",random_indiger2)
+random_indiger3 = random.randint(1,50)
+print("Third Random Indiger: ",random_indiger3)
+random_indiger4 = random.randint(1,50)
+print("Fourth Random Indiger: ",random_indiger4)
+random_indiger5 = random.randint(1,50)
+print("Fifth Random Indiger: ",random_indiger5)
