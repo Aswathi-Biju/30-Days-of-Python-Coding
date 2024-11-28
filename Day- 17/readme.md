@@ -38,7 +38,7 @@ print("Is 'kiwi' in the tuple?", "kiwi" in fruits)  # Output: False
 print("Length of the tuple:", len(fruits))  # Output: 3
 
 ### Write a program with following tasks:
-1. Create a tuple of at least 5 of your favorite colors, animals, or items.
+1. Create a tuple of at least 5 of your favorite colors or animals or items.
 2. Perform the following operations:
     Access and print the first and last elements of the tuple using indexing.
     Slice the tuple to extract the first three elements.
