@@ -44,7 +44,7 @@ print("After sort:", numbers)  # Output: [10, 20, 25, 30, 50]
 
 
 ### Write a program with following tasks:
-1. Create a list of at least 5 numbers in a list by users input.
+1. Create a list of at least 5 colors.
 2. Use the following list methods:
     Add a new item to the end of the list using append().
     Insert an item at the second position using insert().
