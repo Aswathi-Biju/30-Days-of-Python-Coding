@@ -1,0 +1,11 @@
+import random
+random_intg1 = random.randint(1,50)
+print("First Random Integer:", random_intg1)
+random_intg2 = random.randint(1,50)
+print("Second Random Integer:", random_intg2)
+random_intg3 = random.randint(1,50)
+print("Third Random Integer:", random_intg3)
+random_intg4 = random.randint(1,50)
+print("Fourth Random Integer:", random_intg4)
+random_intg5 = random.randint(1,50)
+print("Fifth Random Integer:", random_intg5)
