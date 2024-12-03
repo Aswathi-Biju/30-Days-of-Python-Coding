@@ -50,4 +50,4 @@ print(7 in set_a)  # Output: False
 -Remove an item using remove() and discard() (try removing an item that doesn’t exist with discard() to see how it differs from remove()).
 -Find the union, intersection, difference, and symmetric difference with another set.
 -Check if a specific item exists in your set using the in operator.
--Compare two sets using subset (<=), superset (>=), and disjoint (isdisjoint()) operations.
+-Iterate any of your set.
